@@ -12,7 +12,7 @@ terraform {
     organization = "ankur1991"
 
     workspaces {
-      name = "clidriven"
+      name = "vcstf"
     }
     
   }
